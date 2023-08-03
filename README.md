@@ -1,6 +1,6 @@
 # The-Tiptop
 
-
+This is the main Thé Tiptop project repo  
 
 ## Getting started
 

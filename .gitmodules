@@ -1,0 +1,6 @@
+[submodule "the-tiptop-api"]
+	path = the-tiptop-api
+	url = http://51.254.97.98/dev/the-tiptop-api.git
+[submodule "the-tiptop-front"]
+	path = the-tiptop-front
+	url = http://51.254.97.98/dev/the-tiptop-front.git
